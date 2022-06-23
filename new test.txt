@@ -1,0 +1,4 @@
+working with branches, you can change from one to the other.
+u can use this command;
+git checkout -b < new branch name>
+git branch to checkthe branches that you have
